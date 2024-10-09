@@ -3,7 +3,7 @@ Tugas Projek sesi UTS mata kuliah Komdat kelompok 4, Dapat diakses di
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Bismillah jadi leantime itu
 
 
 ## Instalasi
